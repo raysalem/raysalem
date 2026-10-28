@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raysalem
 - 👀 I’m interested in machine learning, data anylytics, withing the technical domain of investments, economics and real estate 
-- 🌱 I’m currently leadership, communication system and data anlytyics
-- 💞️ I’m looking to collaborate on data anlytics to get insight into the market. 
+- 🌱 I’m currently in technical leadership, focused communication system and advance virtual platform simulation
+- 💞️ I’m looking to collaborate on data anlytics for stock trading, photography and absolute noob astrophotography.
 - 📫 How to reach me via email: raysalem@gmail.com
 
 <!---
